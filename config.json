@@ -1,19 +1,25 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
+  "base_url": "https://www.dailygroup.info",
+  "site_title": "Daily Group",
   "site_description": "Next.js blog template for Netlify",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Daily"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Group"
     },
     {
-      "keyword": "React"
+      "keyword": "Travel"
+    },
+    {
+      "keyword": "Food"
+    },
+    {
+      "keyword": "Spring"
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@dailygroup_info",
+  "github_account": "dailytravel"
 }
