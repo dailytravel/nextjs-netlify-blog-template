@@ -15,7 +15,7 @@ export default function Index() {
           <h1>
             Welcome to Daily Group!
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
+          <span className="handle">@dailygroup</span>
           <h2>A blog template with Next.js and Netlify.</h2>
           <SocialList />
         </div>
