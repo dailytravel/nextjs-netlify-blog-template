@@ -12,11 +12,10 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-          <h1>
+          <h2>
             Daily Group
-          </h1>
-          <span className="handle">@dailygroup</span>
-          <p>Daily Group là đơn vị quản lý trực thuộc tổng công ty Daily Travel với vốn điều lệ 100 tỷ đồng gồm 12 đơn vị trực thuộc kinh doanh các lĩnh vực du lịch, nhà hàng & khách sạn, thực phẩm, đồ uống, ô tô, xuất nhập khẩu và xây dựng bao gồm:</p>
+          </h2>
+          <p>Daily Group là đơn vị quản lý trực thuộc tổng công ty Daily Travel với vốn điều lệ 100 tỷ đồng gồm 12 đơn vị trực thuộc kinh doanh các lĩnh vực du lịch, nhà hàng & khách sạn, thực phẩm, đồ uống, ô tô, xuất nhập khẩu và xây dựng, năng lượng bao gồm:</p>
           <ul>
             <li>Daily Travel</li>
             <li>Daily Deal (Groupon)</li>
@@ -30,6 +29,10 @@ export default function Index() {
             <li>Daily Homes</li>
             <li>Daily Hotels</li>
           </ul>
+          <h3>
+            Liên hệ
+          </h3>
+          <p>Trụ sở: 210 Diệp Minh Châu, Đà Nẵng - Điện thoại: 0236.3551.555 - Email: info@dailygroup.info</p>
           <SocialList />
         </div>
       </div>
