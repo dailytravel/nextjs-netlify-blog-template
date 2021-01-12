@@ -19,7 +19,8 @@
       "keyword": "Spring"
     }
   ],
-  "posts_per_page": 5,
+  "posts_per_page": 10,
   "twitter_account": "@dailygroup_info",
-  "github_account": "dailytravel"
+  "github_account": "dailytravel",
+  "facebook_account": "dailytravel"
 }
