@@ -13,10 +13,23 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Welcome to Daily Group!
+            Daily Group
           </h1>
           <span className="handle">@dailygroup</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <p>Daily Group là đơn vị quản lý trực thuộc tổng công ty Daily Travel với 12 đơn vị trực thuộc bao gồm:</p>
+          <ul>
+            <li>Daily Travel</li>
+            <li>Daily Deal (Groupon)</li>
+            <li>Daily Spring (Soft drinks water)</li>
+            <li>Daily Suite (Enterprise Solutions)</li>
+            <li>Daily Logistics (Import & Export)</li>
+            <li>Daily Community (uid.one)</li>
+            <li>Daily Auto</li>
+            <li>Daily Solar</li>
+            <li>Daily Food</li>
+            <li>Daily Homes</li>
+            <li>Daily Hotels</li>
+          </ul>
           <SocialList />
         </div>
       </div>
