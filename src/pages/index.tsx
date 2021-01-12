@@ -15,7 +15,7 @@ export default function Index() {
           <h2>
             Daily Group
           </h2>
-          <p>Daily Group là đơn vị quản lý trực thuộc tổng công ty Daily Travel với vốn điều lệ 100 tỷ đồng gồm 12 đơn vị trực thuộc kinh doanh các lĩnh vực du lịch, nhà hàng & khách sạn, thực phẩm, đồ uống, ô tô, xuất nhập khẩu và xây dựng, năng lượng bao gồm:</p>
+          <p>Daily Group là đơn vị quản lý thuộc tổng công ty Daily Travel với vốn điều lệ 100 tỷ đồng gồm 12 đơn vị thành viên hoạt động trong các lĩnh vực du lịch, nhà hàng & khách sạn, thực phẩm, đồ uống, ô tô, xuất nhập khẩu và xây dựng, năng lượng bao gồm:</p>
           <ul>
             <li>Daily Travel</li>
             <li>Daily Deal (Groupon)</li>
