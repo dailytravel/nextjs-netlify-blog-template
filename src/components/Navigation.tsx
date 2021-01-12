@@ -17,28 +17,6 @@ export default function Navigation() {
             </Link>
           </li>
           <li>
-            <Link href="/members">
-              <a
-                className={
-                  router.pathname.startsWith("/members") ? "active" : null
-                }
-              >
-                Thành viên
-              </a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/products">
-              <a
-                className={
-                  router.pathname.startsWith("/products") ? "active" : null
-                }
-              >
-                Sản phẩm
-              </a>
-            </Link>
-          </li>
-          <li>
             <Link href="/posts">
               <a
                 className={
@@ -49,6 +27,7 @@ export default function Navigation() {
               </a>
             </Link>
           </li>
+
         </ul>
         <style jsx>
           {`
