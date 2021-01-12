@@ -29,6 +29,7 @@ export default function Index() {
             <li>Daily Homes</li>
             <li>Daily Hotels</li>
           </ul>
+          <img src="/together.jpg" alt="together" width="100%"/>
           <h3>
             Liên hệ
           </h3>
